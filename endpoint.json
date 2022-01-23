@@ -1,0 +1,21 @@
+[
+    { 
+      "id": "update",
+      "execute-command": "./script.sh",
+      "command-working-directory": "/root",
+      "response-message": "Executing redeploy web resume container",
+      "trigger-rule":
+      {
+        "match":
+        {
+          "type": "value",
+          "value": "7294fb42-0144-4e15-ad5f-7e431529eec9",
+          "parameter":
+          {
+            "source": "url",
+            "name": "token"
+          }
+        }
+      }
+    }
+]
