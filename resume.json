@@ -17,9 +17,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "GitHub",
+        "username": "pauvilella",
+        "url": "https://github.com/pauvilella"
       },
       {
         "network": "SoundCloud",

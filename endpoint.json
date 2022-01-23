@@ -9,11 +9,11 @@
         "match":
         {
           "type": "value",
-          "value": "7294fb42-0144-4e15-ad5f-7e431529eec9",
+          "value": "new-image-available",
           "parameter":
           {
             "source": "url",
-            "name": "token"
+            "name": "type"
           }
         }
       }
